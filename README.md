@@ -1,6 +1,6 @@
 # Data-Driven Portfolio Optimization
 
-## *HKUST ELEC3180 - Homework and Midterm Exam Solutions*
+*HKUST ELEC3180 - Homework and Midterm Exam Solutions*
 
 > Disclaimer: The solutions presented here are not guaranteed to be 100% accurate. They have been refined based on student submissions and used the TAs' solutions as a reference. To preserve the educational purpose of the assignments, full solutions are not disclosed.
 
